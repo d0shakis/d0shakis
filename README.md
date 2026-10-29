@@ -1,7 +1,7 @@
 <div align="center">
 <!-- HOW TO USE: replace every YOUR\_... text below, then delete this comment. -->
 <!-- ================= HEADER ================= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,60:0F2A4A,100:1F6FEB&height=220&section=header&text=YOUR%20NAME&fontSize=48&fontColor=E6EDF3&fontAlignY=38&animation=fadeIn&desc=YOUR%20TITLE%20HERE&descSize=17&descAlignY=58&descColor=9DB4D0" alt="YOUR NAME" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,60:0F2A4A,100:1F6FEB&height=220&section=header&text=YOUR%20NAME&fontSize=48&fontColor=E6EDF3&fontAlignY=38&animation=fadeIn&desc=YOUR%20TITLE%20HERE&descSize=17&descAlignY=58&descColor=9DB4D0" alt="ODYSSEAS" width="100%" />
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&height=34&lines=YOUR+FIRST+LINE;YOUR+SECOND+LINE;YOUR+THIRD+LINE" alt="Typing text" />
 
 <br/><br/>
