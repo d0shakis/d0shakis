@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">
+<!-- HOW TO USE: replace every YOUR\_... text below, then delete this comment. -->
+<!-- ================= HEADER ================= -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,60:0F2A4A,100:1F6FEB&height=220&section=header&text=YOUR%20NAME&fontSize=48&fontColor=E6EDF3&fontAlignY=38&animation=fadeIn&desc=YOUR%20TITLE%20HERE&descSize=17&descAlignY=58&descColor=9DB4D0" alt="YOUR NAME" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&height=34&lines=YOUR+FIRST+LINE;YOUR+SECOND+LINE;YOUR+THIRD+LINE" alt="Typing text" />
 
-<!--
-**d0shakis/d0shakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/><br/>
 
-Here are some ideas to get you started:
+<!-- Delete any badge you do not want. -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/YOUR\_LINKEDIN\_NAME/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzU4QTZGRiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2BCg%3D%3D" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/YOUR\_INSTAGRAM\_NAME"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=58A6FF" alt="Instagram" /></a>
+<a href="mailto:YOUR\_EMAIL"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Email" /></a>
+
+<br/><br/>
+
+<!-- ================= ABOUT ================= -->
+<h3>About</h3>
+<p>
+YOUR FIRST SENTENCE ABOUT YOU.<br/>
+YOUR SECOND SENTENCE.<br/>
+YOUR THIRD SENTENCE.
+</p>
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,40:0F2A4A,100:0D1117&height=100&section=footer" alt="" width="100%" />
+</div>
